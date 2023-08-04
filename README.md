@@ -34,4 +34,4 @@ Sleep Disorder Analysis:  The primary focus of this project is to identify the p
 |Sleep_disorder | The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea) |
 
 ## Impact
-By undertaking this data science project, we aim to provide valuable insights into the factors influencing sleep disorders and develop a model that can help identify individuals at risk, thus promoting better sleep health and overall well-being.
+By undertaking this data science project, I aim to provide valuable insights into the factors influencing sleep disorders and develop a model that can help identify individuals at risk, thus promoting better sleep health and overall well-being.
